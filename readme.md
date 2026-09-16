@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <img src="./.github/banner.svg" height="150px" />
+  <img src="./.github/banner.svg" height="150px" alt="Design Patterns for Humans banner" />
 </p>
 
 ---
@@ -20,17 +20,18 @@
 
 ## 目录
 
+- [目录](#目录)
 - [简介](#简介)
   - [注意事项](#注意事项)
   - [设计模式的类型](#设计模式的类型)
-- [创建型设计模式 (Creational)](#创建型设计模式-creational-design-patterns)
+- [创建型设计模式 (Creational Design Patterns)](#创建型设计模式-creational-design-patterns)
   - [🏠 简单工厂 (Simple Factory)](#-简单工厂-simple-factory)
   - [🏭 工厂方法 (Factory Method)](#-工厂方法-factory-method)
   - [🔨 抽象工厂 (Abstract Factory)](#-抽象工厂-abstract-factory)
   - [👷 建造者 (Builder)](#-建造者-builder)
   - [🐑 原型 (Prototype)](#-原型-prototype)
   - [💍 单例 (Singleton)](#-单例-singleton)
-- [结构型设计模式 (Structural)](#结构型设计模式-structural-design-patterns)
+- [结构型设计模式 (Structural Design Patterns)](#结构型设计模式-structural-design-patterns)
   - [🔌 适配器 (Adapter)](#-适配器-adapter)
   - [🚡 桥接 (Bridge)](#-桥接-bridge)
   - [🌿 组合 (Composite)](#-组合-composite)
@@ -38,7 +39,7 @@
   - [📦 外观 (Facade)](#-外观-facade)
   - [🍃 享元 (Flyweight)](#-享元-flyweight)
   - [🎱 代理 (Proxy)](#-代理-proxy)
-- [行为型设计模式 (Behavioral)](#行为型设计模式-behavioral-design-patterns)
+- [行为型设计模式 (Behavioral Design Patterns)](#行为型设计模式-behavioral-design-patterns)
   - [🔗 责任链 (Chain of Responsibility)](#-责任链-chain-of-responsibility)
   - [👮 命令 (Command)](#-命令-command)
   - [➿ 迭代器 (Iterator)](#-迭代器-iterator)

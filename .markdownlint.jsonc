@@ -4,5 +4,9 @@
   // README 使用内联 HTML 实现居中、换行等排版
   "MD033": {
     "allowed_elements": ["br", "p", "sub", "i", "img"]
-  }
+  },
+  // 中英混排与长链接导致行宽不可控，不限制行长
+  "MD013": false,
+  // 首行是 <br> + banner 图片，之后才是目录标题
+  "MD041": false
 }
